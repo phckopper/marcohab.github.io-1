@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/marcohab
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://marcohab.me
+  * I am marcohab (https://keybase.io/marcohab) on keybase.
+  * I have a public key with fingerprint 3A01 6796 23D6 E902 40D6  E098 A27B EDBE 54ED EBFC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011786f940165d820dbad52e41d47b6e0db8a26e64932b1c29296c9a03014efa0c0a",
+            "fingerprint": "3a01679623d6e90240d6e098a27bedbe54edebfc",
+            "host": "keybase.io",
+            "key_id": "a27bedbe54edebfc",
+            "kid": "01011786f940165d820dbad52e41d47b6e0db8a26e64932b1c29296c9a03014efa0c0a",
+            "uid": "917fa1a3b1fd8c02d9dc2b7323417419",
+            "username": "marcohab"
+        },
+        "revoke": {
+            "sig_ids": [
+                "1f3cbe1c03881381103387cafa98bc0cf9c8b8720b37bbd330316323c0854b8d0f"
+            ]
+        },
+        "service": {
+            "hostname": "marcohab.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455467217,
+    "expire_in": 157680000,
+    "prev": "8614442ae4ed414b958f3b24ebf1a5891029d45d8a3eef328f4469ff13a6ef81",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkmtMHFUUx5dHIaICjUEe0tAMQSqsdO7M3XmsggkxxVBpanhVBMk87rAjsLOP
+YaFQbGofCEWgpJVWtLYglFRTGmlsVyyFllpogzZQo0EsbTQKEmitKS9X8C7RL8aP
+3i83597/+Z3/Pec2Pe5n8PVpq5rty5qd8fjcmBYNOf2n71QRoibvJMxVRDFa21CJ
+jJx6YbEqE2aCBCQALMcoPCQBY5I5ipRFQTZRCAIZsiKDcMwJFIMYyNOUCCSKp3hG
+4gWSJgFEikBKpEAYCUW1FiGHzaFadYylBUxjeYaiZQbxJAVJvJM8BrEikkVkgkhG
+oiLhRIvm9GZgc6LgREmqhs9wULhm7z/0/7PvsjUcD1hFAAItAkXmJJKSeVmiRJam
+aAhYCHiv0IkcVqEUYXWp4JA0iyAS1UbCgVxaMfL21akWYdNOwvwaARRaEhGQSJrj
+AM0BQNI0x0qCIvCcKJGSwkucyLEUKdKsKMo0TdKAwcUkkjNBkZNJhSjAbFzRpUpr
+cG+X/lU9CUdGwubQdE3SSvCFRddtZq8nfafNK+wpR2Lh34xCUbXKeEQ4w4UcTlWz
+EmaApZKueqEAmkyQYSnAGglUYVMdqFD1Kkwsw5F4eesgF2ZyDIAQUgLCA4EAiryJ
+U2iRgng4QDBxPCApXoZ4HgKNkEJTnAIhwysKoAUGKRwgvK+yWzUvGxsVijATN84q
+6GUORFQH1fpG+xt8fA0B63y9n9cQ9EjoPz/a/4+Q1ZLyd6e31rUI5REfz90+MHdj
+v/vY/YORr7vtf1af7C4wFJdeKdH3NI8tqJ+UJ27r2/Dds3p8l3t49T3hh09nn88e
+/B3mlubz9TXuiUu2nLnze5MP9Z2j6k9NZT7Q7l9trZ6Maq9JTulo8JvpSEkt/qWs
+35B5/Pr0hUN1UX1sd/zLv04l+Le/v8JW1HreWji73vZGzrGvKvtLgtOMcdS9I/F6
+ojE79mhs6+IIeDoxJSZs95Bj+fMv32xOi7XYf7u1UBneqQtTRfa2tjz35uP0uiAq
+tfnCQO87F6e2Nysf7WiPCYQJTx3e6KDMD7dkHoj+JuI5LXkTnPlpcEPveJjWsBS0
+csp57cO3s+QGLaBFv/191p71Q9ufGRidnV8qeCK7J+7MB9Uez5km55VHB/1WGiaj
+Pyu/Zth4zh23o/GmWlPJLzMZaeCOuzQq9G66HLAw17mps6N7ND+v8kgMH+Z6Jf2i
+5Wb91VymJfCy3hueMJpPz4+unq2/9XNXyMGF7JFdWqMpu6Xw2+u5yw/CH2v9+qUX
+k0YyXV/sc0t7IzKaKhuWs8ZC88JHJseJecuPbugy3juZPiYOXCYax/KGPOdD8u5a
+J1dfXbTv2nd46+kX4jfaPSdyTnQFpfZMPKytiCyeXgrbvyWYX5QjL5k3yysVXY25
+w3278zwlGdvqLOP2J4MjAof1o34xE38B
+=+v/M
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marcohab
+
+==================================================================

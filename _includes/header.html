@@ -1,0 +1,10 @@
+<header class="header">
+  <div class="navigation">
+    <ul class="menu">
+      <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+      <li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+      <li class="menu__entry"><a href="{{ site.baseurl | prepend: '/feed.xml' }}">RSS</a></li>
+    </ul>
+  </div>
+  {% include social.html %}
+</header>
