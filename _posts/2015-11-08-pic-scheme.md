@@ -3,7 +3,6 @@ layout: post
 title:  "Esquema do PIC16F690 e PIC18F4550"
 subtitle:
 date:   2015-11-08 23:34:01
-categories: [microcontroladores]
 visible: true
 ---
 
